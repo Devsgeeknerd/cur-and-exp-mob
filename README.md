@@ -3,22 +3,22 @@
 
 ***Conteúdo do Módulo:***
 
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
+* [ ] [Bem-vindo.](https://github.com/Devsgeeknerd/mod-bem-vin-and-exp-mob) &#128679;
+* [ ] [Recados Importantes.](https://github.com/Devsgeeknerd/mod-rec-imp-and-exp-mob) &#128679;
+* [ ] [Preparação.](https://github.com/devsgeeknerd/mod-pre-and-exp-mob) &#128679;
+* [ ] [Fundação do Ambiente.](https://github.com/Devsgeeknerd/mod-fun-amb-mob) &#128679;
+* [ ] [Fundação do SDK Android.](https://github.com/devsgeeknerd/mod-fun-sdk-and-and-exp-mob) &#128679;
+* [ ] [Containers de Layouts.](https://github.com/Devsgeeknerd/) &#128679;
+* [ ] [Fundação do Android Dinâmico.](https://github.com/Devsgeeknerd/mod-fun-and-din-and-exp-mob) &#128679;
+* [ ] [Formulários, Coleções e Estilos.](https://github.com/Devsgeeknerd/mod-for-col-est-and-exp-mob) &#128679;
+* [ ] [Banco de Dados Local.](https://github.com/Devsgeeknerd/mod-ban-dad-loc-and-exp-mob) &#128679;
+* [ ] [Projeto — Netflix App - Prototipagem e Modelagem.](https://github.com/devsgeeknerd/mod-pro-net-fli-app-pro-mod-and-exp-mob) &#128679;
+* [ ] [Projeto — Netflix App - Detalhes e Filmes Similares.](https://github.com/Devsgeeknerd/mod-pro-net-fli-app-det-fil-sim-and-exp-mob) &#128679;
+* [ ] [Projeto — Netflix App - Requisição Web e API.](https://github.com/Devsgeeknerd/mod-pro-net-fli-app-req-web-api-and-exp-mob) &#128679;
+* [ ] [Tarefas em Background.](https://github.com/devsgeeknerd/mod-tar-bac-and-exp-mob) &#128679;
+* [ ] [Dominando a Linguagem Kotlin.](https://mod-dom-lin-kot-and-exp-mob) &#128679;
+* [ ] [Resumão da Linguagem Kotlin.](https://github.com/Devsgeeknerd/mod-res-lin-kot-and-exp-mob) &#128679;
+* [ ] [Modernizando Projetos Com Kotlin.](https://github.com/Devsgeeknerd/mod-mor-pro-com-kot-and-exp-mob) &#128679;
 * [ ] []() &#128679;
 * [ ] []() &#128679;
 * [ ] []() &#128679;

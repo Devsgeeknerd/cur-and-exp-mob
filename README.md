@@ -19,21 +19,21 @@
 * [ ] [Dominando a Linguagem Kotlin.](https://mod-dom-lin-kot-and-exp-mob) &#128679;
 * [ ] [Resumão da Linguagem Kotlin.](https://github.com/Devsgeeknerd/mod-res-lin-kot-and-exp-mob) &#128679;
 * [ ] [Modernizando Projetos Com Kotlin.](https://github.com/Devsgeeknerd/mod-mor-pro-com-kot-and-exp-mob) &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
-* [ ] []() &#128679;
+* [ ] [Fundação do Ambiente 2.](https://github.com/Devsgeeknerd/mod-fun-amb-2-and-exp-mob) &#128679;
+* [ ] [Fundação do SDK Android 2.](https://github.com/Devsgeeknerd/mod-fun-sdk-and-2-and-exp-mob) &#128679;
+* [ ] [Fundação de Layouts e Containers 2.](https://github.com/Devsgeeknerd/mod-fun-lay-con-2-and-exp-mob) &#128679;
+* [ ] [Projeto — Mega Sena App - Interface Gráfica e Lógica Para Programação.](https://github.com/Devsgeeknerd/mod-pro-meg-sen-app-int-gra-log-par-pro-and-exp-mob) &#128679;
+* [ ] [Projeto — Fitness App - Formulários, Coleções e Estilos](https://github.com/Devsgeeknerd/mod-pro-fit-app-for-col-est-and-exp-mob) &#128679;
+* [ ] [Projeto — Fitness App - Banco de Dados Offline.](https://github.com/Devegeeknerd/mod-pro-fit-app-dan-dad-off-and-exp-mob) &#128679;
+* [ ] [Projeto — Netflix App - Prototipagem e Modelagem 2.](https://github.com/Devsgeeknerd/mod-pro-net-app-pro-mod-and-exp-mob) &#128679;
+* [ ] [Projeto — Netflix App - UI Elegante.](https://github.com/Devsgeeknerd/mod-pro-net-app-ui-ele-and-exp-mob) &#128679;
+* [ ] [Projeto — Netflix App - Recursos Online e API.](https://github.com/Devsgeeknerd/mod-pro-net-app-rec-onl-api-and-exp-mob) &#128679;
+* [ ] [Projeto — Joke App - Frameworks Modernos.](https://github.com/Devsgeeknerd/mod-pro-jok-app-fra-mod-and-exp-mob) &#128679;
+* [ ] [Projeto — Instagram App - UI Avançada.](https://github.com/Devsgeeknerd/mod-pro-ins-app-ui-ava-and-exp-mob) &#128679;
+* [ ] [Projeto — Instagram App - Lógica Avançada.](https://github.com/Devsgeeknerd/mod-pro-ins-app-log-ava-and-exp-mob) &#128679;
+* [ ] [Projeto — Instagram App - Animação Avançada.](https://github.com/Devsgeeknerd/mod-pro-ins-app-ani-ava-and-exp-mob) &#128679;
+* [ ] [Projeto — Instagram App - Produção.](https://github.com/Devsgeeknerd/mod-pro-ins-app-pro-and-exp-mob) &#128679;
+* [ ] [Projeto — YouTube App - Players de Vídeos e Animações.](https://github.com/Devsgeeknerd/mod-pro-you-tub-pla-vid-ani-and-exp-mob) &#128679;
 
 <!-- Informações -->
 ## &#8505; Informações
